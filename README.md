@@ -10,3 +10,13 @@ in each limb and analyzed the kinematics.
 
 ## limbkin.m
 Contains the vector formulas and the kinematic equations for the 2PRU - 1PRS parallel actuated platform. 
+
+## limbkin3PRS.m
+Analytic solution for the 3PRS parallel actuated platform. 
+
+## limbkinRPS.m
+Contains a derivation of the kinematics for 3RPS ankle rehabilitation device where the closed form solutions are derived using a quaternion approach. 
+
+Reference: Nurahmi, Latifah & Caro, Stéphane & Solichin, Mochamad. (2019). A novel ankle rehabilitation device based on a reconfigurable 3-RPS parallel manipulator. Mechanism and Machine Theory. 134. 135-150. 10.1016/j.mechmachtheory.2018.12.017. 
+
+
