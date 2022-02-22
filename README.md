@@ -36,7 +36,7 @@ The 2RPS - 1PRS platform is designed such that it provides three independent mot
 <p align="left">
   <img width="300" src="https://github.com/pranavs1911/TractionNeckBrace/blob/main/x2RPS1PRstract.gif">
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img width="235" src="https://github.com/pranavs1911/TractionNeckBrace/blob/main/x2RPS1PRslatbending.gif">
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img width="300" src="https://github.com/pranavs1911/TractionNeckBrace/blob/main/x2RPS1PRsflex.gif">
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img width="300" src="https://github.com/pranavs1911/TractionNeckBrace/blob/main/x2RPS1PRsflex.gif">
 </p>
 
   
