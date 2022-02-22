@@ -4,6 +4,12 @@ Contains all the MATLAB and the simulation files I developed for simulating the 
 The initial project involved a research of the numerical solution of the forward/ inverse kinematics of the 2RPS - 1PRS parallel platform. 
 Various parallel platforms such as 2PRU - 1PRS, 3PRS, 3RPS parallel platforms were analyzed and their kinematic equations were analyzed. 
 
+The 2RPS - 1PRS platform was decided as the ideal structure for the traction neck brace after comparing the degrees of freedom and the kinematics of 
+the other parallel actuated platforms mentioned before. 
+
+## Analytical Solution.m 
+Developed closed form solutions (forward/inverse kinematics) for the 2RPS - 1PRS parallel actuated platform. 
+
 ## kin.m
 Contains a version of the analytical kinematics solution for the 2RPS -1PRS parallel platform where I developed the vector matrices
 in each limb and analyzed the kinematics.
