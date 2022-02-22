@@ -32,8 +32,7 @@ The 2RPS - 1PRS platform is designed such that it provides three independent mot
 
 ### Simulink simulations: 
 
-#### Traction movement along X: 
+#### Traction movement along Z: 
 
-![Traction Movement] (https://github.com/pranavs1911/TractionNeckBrace/blob/main/x2RPS1PRstract.gif)
-
+![Traction Movement](https://github.com/pranavs1911/TractionNeckBrace/blob/main/x2RPS1PRstract.gif)
 
