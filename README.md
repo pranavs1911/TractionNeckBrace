@@ -25,4 +25,3 @@ Contains a derivation of the kinematics for 3RPS ankle rehabilitation device whe
 
 Reference: Nurahmi, Latifah & Caro, Stéphane & Solichin, Mochamad. (2019). A novel ankle rehabilitation device based on a reconfigurable 3-RPS parallel manipulator. Mechanism and Machine Theory. 134. 135-150. 10.1016/j.mechmachtheory.2018.12.017. 
 
-
