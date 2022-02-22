@@ -25,3 +25,15 @@ Contains a derivation of the kinematics for 3RPS ankle rehabilitation device whe
 
 Reference: Nurahmi, Latifah & Caro, Stéphane & Solichin, Mochamad. (2019). A novel ankle rehabilitation device based on a reconfigurable 3-RPS parallel manipulator. Mechanism and Machine Theory. 134. 135-150. 10.1016/j.mechmachtheory.2018.12.017. 
 
+
+## Initial Simulation of the draft design on Simulink. 
+
+The 2RPS - 1PRS platform is designed such that it provides three independent motions: translational motion along the vertical Z direction, rotational movement (lateral bending) and rotational movement ( flexion - extension). 
+
+### Simulink simulations: 
+
+#### Traction movement along X: 
+
+![Traction Movement] (https://github.com/pranavs1911/TractionNeckBrace/blob/main/x2RPS1PRstract.gif)
+
+
