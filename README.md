@@ -36,8 +36,16 @@ The 2RPS - 1PRS platform is designed such that it provides three independent mot
 <p align="left">
   <img width="300" src="https://github.com/pranavs1911/TractionNeckBrace/blob/main/x2RPS1PRstract.gif">
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img width="235" src="https://github.com/pranavs1911/TractionNeckBrace/blob/main/x2RPS1PRslatbending.gif">
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img width="300" src="https://github.com/pranavs1911/TractionNeckBrace/blob/main/x2RPS1PRsflex.gif">
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img width="300" src="https://github.com/pranavs1911/TractionNeckBrace/blob/main/x2RPS1PRsflex.gif">
 </p>
 
-  
+### CAD and Fabrication Images: 
+
+The initial prototype was developed with a 2RPS - 1PRS parallel platform. The final CAD model of the prototype and the fabricated prototype are showcased in the images below. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CAD Model &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prototype
+<p align="left">
+  <img width="275" src="https://github.com/pranavs1911/TractionNeckBrace/blob/main/Rehab%20CAD.JPG">
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img height="300" src="https://github.com/pranavs1911/TractionNeckBrace/blob/main/Fabrication-Rehab%20Robot.JPG">
+
 
